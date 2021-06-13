@@ -45,8 +45,8 @@ enableGitInfo = true
   weight = 10
 
 [[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/hugo-book/"
+  name = "支持我们"
+  url = "https://afdian.net/@volfclub"
   weight = 20
 
 [params]

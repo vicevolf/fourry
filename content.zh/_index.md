@@ -70,3 +70,12 @@ type: docs
 
 > 工作场所不宜（NSFW）是网络用语，用于标记可能不希望在公共、正式或受控环境中看到的内容。 标记的内容可能包含“裸露、强烈的性行为 、政治问题、亵渎、侮辱、暴力或其他可能令人不适”的主题。 相反，SFW 用于不包含此类材料的链接，但标题可能会导致人们认为该内容是 NSFW。—— 引用自 [Wikipedia](https://en.wikipedia.org/wiki/Not_safe_for_work)
 
+---
+
+## 🎓 常见问题
+
+- [怎样使用](/docs/Questions/#%e6%80%8e%e6%a0%b7%e4%bd%bf%e7%94%a8)
+- [升级授权](/docs/Questions/#%e5%8d%87%e7%ba%a7%e6%8e%88%e6%9d%83)
+- [关于直播](/docs/Questions/#%e5%85%b3%e4%ba%8e%e7%9b%b4%e6%92%ad)
+- [改进项目](/docs/Questions/#%e6%94%b9%e8%bf%9b%e9%a1%b9%e7%9b%ae)
+
