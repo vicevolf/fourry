@@ -26,9 +26,9 @@
 
 请**自上而下**选择**第一个**，包含您需求的选项：
 
-- [A. 接受打赏的直播，制作贩卖用的周边，游戏等；](/docs/4ry-Absolute/)
-- [B. 兽设设定，后续会有衍生如为兽设更换服装等；](/docs/4ry-Balance/)
-- [C. 只用作头像，或欣赏用的形象展示分享等；](/docs/4ry-Cheap/)
+- [A. 接受打赏的直播，制作贩卖用的周边，游戏等；](https://license.4ry.work/docs/4ry-Absolute/)
+- [B. 兽设设定，后续会有衍生如为兽设更换服装等；](https://license.4ry.work/docs/4ry-Balance/)
+- [C. 只用作头像，或欣赏用的形象展示分享等；](https://license.4ry.work/docs/4ry-Cheap/)
 
 ---
 
@@ -48,10 +48,10 @@
 
 | 名称 | 使用权 | 修改二创权 | 商用权 | 署名义务 |
 |:-:|:-:|:-:|:-:|:-:|
-| [4ry-C](/docs/4ry-Cheap/) | ✅ | 🚫 | 🚫 | ✅ |
-| [4ry-B](/docs/4ry-Balance/) | ✅ | ✅ | 🚫 | ✅ |
-| [4ry-A](/docs/4ry-Absolute/) | ✅ | ✅ | ✅ | ✅ |
-| [4ry-S](/docs/4ry-Super/) | ✅ | ✅ | ✅ | 🚫 |
+| [4ry-C](https://license.4ry.work/docs/4ry-Cheap/) | ✅ | 🚫 | 🚫 | ✅ |
+| [4ry-B](https://license.4ry.work/docs/4ry-Balance/) | ✅ | ✅ | 🚫 | ✅ |
+| [4ry-A](https://license.4ry.work/docs/4ry-Absolute/) | ✅ | ✅ | ✅ | ✅ |
+| [4ry-S](https://license.4ry.work/docs/4ry-Super/) | ✅ | ✅ | ✅ | 🚫 |
 
 ### 🚧 附加限制
 
@@ -68,8 +68,8 @@
 
 ## 🎓 常见问题
 
-- [怎样使用](/docs/Questions/#%e6%80%8e%e6%a0%b7%e4%bd%bf%e7%94%a8)
-- [升级授权](/docs/Questions/#%e5%8d%87%e7%ba%a7%e6%8e%88%e6%9d%83)
-- [关于直播](/docs/Questions/#%e5%85%b3%e4%ba%8e%e7%9b%b4%e6%92%ad)
-- [改进项目](/docs/Questions/#%e6%94%b9%e8%bf%9b%e9%a1%b9%e7%9b%ae)
+- [怎样使用](https://license.4ry.work/docs/Questions/#%e6%80%8e%e6%a0%b7%e4%bd%bf%e7%94%a8)
+- [升级授权](https://license.4ry.work/docs/Questions/#%e5%8d%87%e7%ba%a7%e6%8e%88%e6%9d%83)
+- [关于直播](https://license.4ry.work/docs/Questions/#%e5%85%b3%e4%ba%8e%e7%9b%b4%e6%92%ad)
+- [改进项目](https://license.4ry.work/docs/Questions/#%e6%94%b9%e8%bf%9b%e9%a1%b9%e7%9b%ae)
 
